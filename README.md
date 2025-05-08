@@ -32,15 +32,22 @@ This is a simple yet powerful web app inspired by the ancient Stoic practice of 
 ---
 
 ## 🚧 Current Status: V1
+We’re in Version 1 — a clean, functional prototype to validate the concept.  
 
-We’re working on **Version 1** — a clean, functional prototype to validate the concept.  
-More updates are coming soon:
+✅ What’s Working Now
+- Takes your birthdate as input
+- Generates a life calendar grid (🟥 lived weeks, ⬜ future weeks)
+- Displays a Memento Mori quote on each load
+- Provides a text box for reflection (local-only for now)
+- Live deployment via Streamlit Cloud
 
-- ✅ **Birthdate input** for accurate week calculations  
-- 🎨 Grid improvement with custom HTML/CSS  
-- 💾 Save reflections (via Google Sheets or Firebase)  
-- 🔔 Reminders/prompts via notifications  
-- 🧠 AI-based life reflection prompts (in progress)
+🧪 What’s Coming Soon
+- 🔐 Sign-in system (Google or email-based)
+- 📝 Save personal notes week-by-week
+- 🎨 Clickable, interactive life grid
+- 🧠 Built-in AI prompts for deeper reflections
+- 📈 Weekly review & journaling features
+- 🌐 Move from Streamlit to a more scalable framework (Next.js, Flask, or React + backend)
 
 ---
 
@@ -60,7 +67,7 @@ More updates are coming soon:
 ---
 
 🤝 Contributing
-If this resonates with you or you'd like to collaborate, feel free to fork, open issues, or send a pull request.
+Feel free to fork, open issues, or send a pull request if this resonates with you or you'd like to collaborate.
 
 ---
 
