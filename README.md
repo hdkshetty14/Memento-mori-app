@@ -50,7 +50,5 @@ Here’s what’s planned next:
   pip install streamlit
   ```
 3. Run the app:
-```bash
-streamlit run memento.py
-
- 
+   ```bash
+   streamlit run memento.py
