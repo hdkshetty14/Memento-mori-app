@@ -48,7 +48,9 @@ Here’s what’s planned next:
 2. Install dependencies:
   ```bash
   pip install streamlit
+  ```
 3. Run the app:
+```bash
 streamlit run memento.py
 
  
