@@ -51,3 +51,9 @@ More updates are coming soon:
    ```bash
    git clone https://github.com/hdkshetty14/Memento-mori-app.git
    cd Memento-mori-app
+2. **Install dependencies:**:
+   ```bash
+   pip install -r requirements.txt
+3. **Run the app:**:
+   ```bash
+   streamlit run memento.py
