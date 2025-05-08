@@ -45,3 +45,10 @@ Here’s what’s planned next:
    ```bash
    git clone https://github.com/yourusername/memento-mori.git
    cd memento-mori
+2. Install dependencies:
+  ```bash
+  pip install streamlit
+3. Run the app:
+streamlit run memento.py
+
+ 
