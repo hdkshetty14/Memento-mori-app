@@ -1,3 +1,7 @@
+import streamlit as st
+import random
+import datetime
+
 # Title & quote
 st.set_page_config(page_title="Digital Memento Mori", layout="wide")
 
