@@ -20,7 +20,6 @@ This is a simple yet powerful web app inspired by the ancient Stoic practice of 
 ## 🌐 Live Demo
 
 🟢 Check it out here: [https://your-memento-mori.streamlit.app/](https://your-memento-mori.streamlit.app/) 
-_(replace this link with your actual deployed URL)_
 
 ---
 
@@ -57,3 +56,18 @@ More updates are coming soon:
 3. **Run the app:**:
    ```bash
    streamlit run memento.py
+
+---
+
+🤝 Contributing
+If this resonates with you or you'd like to collaborate, feel free to fork, open issues, or send a pull request.
+
+---
+
+💭 Why Memento Mori?
+
+The goal is simple: to help digital natives pause, reflect, and use time intentionally — one week at a time.
+
+---
+
+🛠️ Made with ❤️ by [Hardik Shetty](https://github.com/hdkshetty14)
