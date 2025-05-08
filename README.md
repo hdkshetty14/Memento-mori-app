@@ -2,7 +2,7 @@
 
 > A minimalist, interactive reminder that your time is limited — built for digital minds.
 
-This is a simple yet powerful web app inspired by the ancient Stoic practice of **Memento Mori** ("remember you must die"). It visualizes the weeks of your life and shows a daily quote to nudge mindful living — made for those who spend their lives in front of screens.
+This is a simple yet powerful web app inspired by the ancient Stoic practice of **Memento Mori** ("remember you must die"). It visualises the weeks of your life and shows a daily quote to nudge mindful living — made for those who spend their lives in front of screens.
 
 ---
 
@@ -19,7 +19,7 @@ This is a simple yet powerful web app inspired by the ancient Stoic practice of 
 
 ## 🌐 Live Demo
 
-🟢 Check it out here: [https://your-streamlit-url.streamlit.app](https://your-streamlit-url.streamlit.app)  
+🟢 Check it out here: [https://your-memento-mori.streamlit.app/](https://your-memento-mori.streamlit.app/) 
 _(replace this link with your actual deployed URL)_
 
 ---
@@ -40,7 +40,7 @@ More updates are coming soon:
 - ✅ **Birthdate input** for accurate week calculations  
 - 🎨 Grid improvement with custom HTML/CSS  
 - 💾 Save reflections (via Google Sheets or Firebase)  
-- 🔔 Reminders / prompts via notifications  
+- 🔔 Reminders/prompts via notifications  
 - 🧠 AI-based life reflection prompts (in progress)
 
 ---
